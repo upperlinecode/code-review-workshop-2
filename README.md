@@ -25,6 +25,6 @@ The purpose of a code review workshop is to practice reviewing others' code and 
    - What PRs/files should I be looking at for this week?
    - Is there any area of the [Review Checklist](#review-checklist) you particularly want feedback on, or refactors you already have in mind?
 
-2. **Review (20 min):** Review your partner's code, using the [Review Checklist](#review-checklist) above. Aim to leave at least 5 affirming and 3 constructive comments. 
+2. **Review (20 min):** Review your partner's code, using the [Review Checklist](#review-checklist) above. You should review through the Github reviewer tool. Aim to leave at least 5 affirming and 3 constructive comments. 
 
 3. **Debrief (5 - 10 min):** Take time to read through the comments and address any questions that come out of these comments. Because reviews are often processed asynchronously, the goal is that all review comments are understandable in writing alone. This opportunity to ask questions and clarify is a chance to increase the learning opportunity as a reviewee, and get a sense of ways to write even clearer comments in the future for reviewers.
